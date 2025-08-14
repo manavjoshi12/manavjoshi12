@@ -25,14 +25,14 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **[Telco Customer Churn](https://github.com/your-username/data-analyst)** | Predicted customer churn using classification models. | Python, Scikit-learn, Matplotlib |
-| **Literacy Rate Analysis (India)** | Analyzed literacy data for policy recommendations. | Python, Seaborn |
-| **Mall Customer Segmentation** | Clustered customers for targeted marketing. | Python, K-Means |
-| **Netflix Analysis** | Explored Netflix content trends & genres. | Python, Matplotlib |
-| **Spam Classification (NLP)** | Classified SMS as spam or ham. | Python, NLTK |
-| **Ola Rides Dashboard** | Created interactive dashboard for ride analysis. | Power BI |
+| Project Title | Description | Tools |
+|---------------|-------------|-------|
+| [Telco Customer Churn Prediction](https://github.com/manavjoshi12/data-analyst/blob/main/Telco_customer_churn.ipynb) | Predicted customer churn using classification models. | Python, Scikit-learn, Matplotlib |
+| [Literacy Rate Analysis (India)](https://github.com/manavjoshi12/data-analyst/blob/main/literacy_rate_india%20(1).ipynb) | Analyzed literacy data for policy recommendations. | Python, Seaborn |
+| [Mall Customer Segmentation](https://github.com/manavjoshi12/data-analyst/blob/main/mall_customer_segmentation_data.ipynb) | Clustered customers for targeted marketing. | Python, K-Means |
+| [Netflix Shows & Movies Analysis](https://github.com/manavjoshi12/data-analyst/blob/main/netflix_shows_and_movies.ipynb) | Explored Netflix content trends & genres. | Python, Matplotlib |
+| [Spam Classification (NLP)](https://github.com/manavjoshi12/data-analyst/blob/main/spam.csv) | Classified SMS as spam or ham. | Python, NLTK |
+| [Ola Rides Dashboard](https://github.com/manavjoshi12/data-analyst/blob/main/Ola_Dashboard.pbix) | Created interactive dashboard for ride analysis. | Power BI |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-⭐ **"Data is the new oil, but it’s useless unless refined into insights."**  
+⭐ **"Data is the new oil, but it’s useless unless refined into insights."**

@@ -25,14 +25,15 @@
 
 ## 📂 Featured Projects
 
-| Project Title | Description | Tools |
-|---------------|-------------|-------|
-| [Telco Customer Churn Prediction](https://github.com/manavjoshi12/data-analyst/blob/main/Telco_customer_churn.ipynb) | Predicted customer churn using classification models. | Python, Scikit-learn, Matplotlib |
-| [Literacy Rate Analysis (India)](https://github.com/manavjoshi12/data-analyst/blob/main/literacy_rate_india%20(1).ipynb) | Analyzed literacy data for policy recommendations. | Python, Seaborn |
-| [Mall Customer Segmentation](https://github.com/manavjoshi12/data-analyst/blob/main/mall_customer_segmentation_data.ipynb) | Clustered customers for targeted marketing. | Python, K-Means |
-| [Netflix Shows & Movies Analysis](https://github.com/manavjoshi12/data-analyst/blob/main/netflix_shows_and_movies.ipynb) | Explored Netflix content trends & genres. | Python, Matplotlib |
-| [Spam Classification (NLP)](https://github.com/manavjoshi12/data-analyst/blob/main/spam.csv) | Classified SMS as spam or ham. | Python, NLTK |
-| [Ola Rides Dashboard](https://github.com/manavjoshi12/data-analyst/blob/main/Ola_Dashboard.pbix) | Created interactive dashboard for ride analysis. | Power BI |
+| Project Title | Description | Notebook |
+|---|---|---|
+| Telco Customer Churn Prediction | Predict churn with ML classification & model evaluation. | [`Telco_customer_churn.ipynb`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/Telco_customer_churn.ipynb) |
+| Literacy Rate Analysis (India) | EDA on literacy trends across states & genders. | [`literacy_rate_india (1).ipynb`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/literacy_rate_india%20%281%29.ipynb) |
+| Mall Customer Segmentation | K-Means clustering for marketing segments. | [`mall_customer_segmentation_data.ipynb`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/mall_customer_segmentation_data.ipynb) |
+| Netflix Shows & Movies Analysis | Content trends, genres, and country insights. | [`netflix_shows_and_movies.ipynb`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/netflix_shows_and_movies.ipynb) |
+| Spam Classification (NLP) | SMS spam/ham classification dataset. | [`spam.csv`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/spam.csv) |
+| Ola Rides Dashboard | Interactive Power BI KPI dashboard. | [`Ola_Dashboard.pbix`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/Ola_Dashboard.pbix) |
+
 
 ---
 

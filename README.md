@@ -25,14 +25,14 @@
 
 ## 📂 Featured Projects
 
-| Project Title | Description | Notebook |
-|---|---|---|
-| Telco Customer Churn Prediction | Predict churn with ML classification & model evaluation. | [`Telco_customer_churn.ipynb`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/Telco_customer_churn.ipynb) |
-| Literacy Rate Analysis (India) | EDA on literacy trends across states & genders. | [`literacy_rate_india (1).ipynb`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/literacy_rate_india%20%281%29.ipynb) |
-| Mall Customer Segmentation | K-Means clustering for marketing segments. | [`mall_customer_segmentation_data.ipynb`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/mall_customer_segmentation_data.ipynb) |
-| Netflix Shows & Movies Analysis | Content trends, genres, and country insights. | [`netflix_shows_and_movies.ipynb`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/netflix_shows_and_movies.ipynb) |
-| Spam Classification (NLP) | SMS spam/ham classification dataset. | [`spam.csv`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/spam.csv) |
-| Ola Rides Dashboard | Interactive Power BI KPI dashboard. | [`Ola_Dashboard.pbix`](https://github.com/manavjoshi12/data-analyst/blob/HEAD/Ola_Dashboard.pbix) |
+| Project Title | Description | Type | Tools |
+|---------------|-------------|------|-------|
+| [Telco Customer Churn Prediction](https://github.com/manavjoshi12/data-analyst/blob/HEAD/Telco_customer_churn.ipynb) | Predicted customer churn using classification models. | Jupyter Notebook | Python, Scikit-learn, Matplotlib |
+| [Literacy Rate Analysis (India)](https://github.com/manavjoshi12/data-analyst/blob/HEAD/literacy_rate_india%20%281%29.ipynb) | Analyzed literacy data for policy recommendations. | Jupyter Notebook | Python, Seaborn |
+| [Mall Customer Segmentation](https://github.com/manavjoshi12/data-analyst/blob/HEAD/mall_customer_segmentation_data.ipynb) | Clustered customers for targeted marketing. | Jupyter Notebook | Python, K-Means |
+| [Netflix Shows & Movies Analysis](https://github.com/manavjoshi12/data-analyst/blob/HEAD/netflix_shows_and_movies.ipynb) | Explored Netflix content trends & genres. | Jupyter Notebook | Python, Matplotlib |
+| [Spam Classification (NLP)](https://github.com/manavjoshi12/data-analyst/blob/HEAD/spam.csv) | Dataset for SMS spam/ham classification. | Dataset | CSV |
+| [Ola Rides Dashboard](https://github.com/manavjoshi12/data-analyst/blob/HEAD/Ola_Dashboard.pbix) | Interactive dashboard for ride analysis. | Power BI Dashboard | Power BI |
 
 
 ---

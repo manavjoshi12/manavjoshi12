@@ -27,12 +27,12 @@
 
 | Project Title | Description | Type | Tools |
 |---------------|-------------|------|-------|
-| [Telco Customer Churn Prediction](https://github.com/manavjoshi12/data-analyst/blob/HEAD/Telco_customer_churn.ipynb) | Predicted customer churn using classification models. | Jupyter Notebook | Python, Scikit-learn, Matplotlib |
-| [Literacy Rate Analysis (India)](https://github.com/manavjoshi12/data-analyst/blob/HEAD/literacy_rate_india%20%281%29.ipynb) | Analyzed literacy data for policy recommendations. | Jupyter Notebook | Python, Seaborn |
-| [Mall Customer Segmentation](https://github.com/manavjoshi12/data-analyst/blob/HEAD/mall_customer_segmentation_data.ipynb) | Clustered customers for targeted marketing. | Jupyter Notebook | Python, K-Means |
-| [Netflix Shows & Movies Analysis](https://github.com/manavjoshi12/data-analyst/blob/HEAD/netflix_shows_and_movies.ipynb) | Explored Netflix content trends & genres. | Jupyter Notebook | Python, Matplotlib |
-| [Spam Classification (NLP)](https://github.com/manavjoshi12/data-analyst/blob/HEAD/spam.csv) | Dataset for SMS spam/ham classification. | Dataset | CSV |
-| [Ola Rides Dashboard](https://github.com/manavjoshi12/data-analyst/blob/HEAD/Ola_Dashboard.pbix) | Interactive dashboard for ride analysis. | Power BI Dashboard | Power BI |
+| [Telco Customer Churn Prediction] | Predicted customer churn using classification models. | Jupyter Notebook | Python, Scikit-learn, Matplotlib |
+| [Literacy Rate Analysis (India)] | Analyzed literacy data for policy recommendations. | Jupyter Notebook | Python, Seaborn |
+| [Mall Customer Segmentation] | Clustered customers for targeted marketing. | Jupyter Notebook | Python, K-Means |
+| [Netflix Shows & Movies Analysis] | Explored Netflix content trends & genres. | Jupyter Notebook | Python, Matplotlib |
+| [Spam Classification (NLP)] | Dataset for SMS spam/ham classification. | Dataset | CSV |
+| [Ola Rides Dashboard] | Interactive dashboard for ride analysis. | Power BI Dashboard | Power BI |
 
 
 ---
